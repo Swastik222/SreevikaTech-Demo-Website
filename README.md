@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/d94825ae-a819-4882-9cf9-b24734c20138
+View your app in GCP HOSt : https://sreevika-tech-41903822403.asia-southeast1.run.app
 
 ## Run Locally
 
